@@ -4,6 +4,8 @@ A professional, modular, and optimized deep learning pipeline in PyTorch to clas
 
 This project transforms a monolithic Kaggle notebook into a production-grade, Git-ready Python codebase with optimized preprocessing, caching, multiple convolutional neural network (CNN) architectures, and advanced evaluation reporting.
 
+> **Personal Note:** I built this project to explore how deep learning models handle EEG sensor data for neurological diagnosis. I chose to refactor a monolithic Kaggle Keras notebook into a structured PyTorch project, implementing and comparing 1D CNNs, 2D CNNs, and EEGNet models to evaluate their spatial-temporal feature learning capabilities.
+
 ---
 
 ## 🧠 Project Background & EEG Analysis
